@@ -1,0 +1,55 @@
+//all font styling (typography) should appeaer in this category.
+
+.heading-secondary {
+    font-size: 1.5rem;
+    font-family: var(--font-display);
+    margin: .5rem 0;
+}
+
+.long-copy {
+    font-size: 1.4rem;
+    margin-top: .3rem;
+    font-weight: 300;
+    // font-weight: 500;
+}
+
+.heading-primary {
+    font-size: 1.5rem;
+    color: var(--color-white);
+}
+
+.long-details {
+    font-size: 1.4rem;
+    margin-top: .3rem;
+    font-weight: 500;
+    color: var(--color-white);
+    margin-top: 1.5rem;
+    text-transform: capitalize;
+}
+
+.long-details2 {
+    font-size: 1.4rem;
+    margin-top: .3rem;
+    font-weight: 500;
+    color: var(--color-white);
+    text-align: center;
+    margin: 0 1rem;
+    text-transform: capitalize;
+    width: 60%;
+}
+
+.long-details3 {
+    font-size: 1.6rem;
+    margin-top: .3rem;
+    font-weight: 900;
+    color: var(--color-white);
+    text-transform: capitalize;
+}
+
+.heading-tertially {
+    font-size: 1.2rem;
+    font-weight: 500;
+    font-family: var(--font-display);
+    margin-top: 1rem;
+    text-transform: capitalize;
+}

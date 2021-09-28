@@ -1,0 +1,22 @@
+//all your partial imports appear in the main.scss file. Remember to replace according
+//to your file system.
+
+@import "base/animations";
+@import "base/base";
+@import "base/typography";
+@import "base/utilities";
+
+@import "abstract/functions";
+@import "abstract/mixins";
+@import "abstract/variables";
+
+@import "components/btn";
+@import "components/card";
+@import "components/popup";
+
+@import "layout/footer";
+@import "layout/grid";
+@import "layout/header";
+@import "layout/navigation";
+
+@import "pages/home";

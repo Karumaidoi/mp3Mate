@@ -1,0 +1,17 @@
+// all your animations will appear here, remember in anycase to use @keyframe rule.
+
+::-webkit-scrollbar {
+    width: 8px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    border-radius: 10px;
+    background-color: var(--color-primary);
+  }
+  
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: var(--color-primary-main);
+    border-radius: 10px;
+  }
